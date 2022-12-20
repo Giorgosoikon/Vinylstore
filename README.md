@@ -1,3 +1,3 @@
 # Vinylstore
 
-This is a project created in Django framework using React.
+This is a demo e-shop created in Django framework using React.js .
